@@ -154,7 +154,6 @@ header img {
 }
 
 .text {
-  position: static;
   width: 65%;
   height: 488px;
   background-color: rgb(212, 212, 212);
@@ -172,4 +171,8 @@ article li {
   font-size: 20px;
   text-decoration: none;
   border-radius: 35px;
+}
+
+article p {
+  padding: 5px;
 }
